@@ -1,0 +1,1 @@
+const baiduMapKey = "Ln3fvmdNjawOcd4Et8cQpuYsGX6eukwz";
